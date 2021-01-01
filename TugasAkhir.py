@@ -1,3 +1,4 @@
+# PROGRAM TRANSAKSI SEDERHANA PENJUALAN BUAH PINANG
 import json
 import os
 from datetime import datetime as dt # from d import datetime
